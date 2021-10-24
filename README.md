@@ -1,2 +1,2 @@
-# webseries-recommendation-app
+# movie-recommendation
 Created with CodeSandbox
