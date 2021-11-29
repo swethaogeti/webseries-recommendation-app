@@ -144,7 +144,7 @@ const webseriesDB = {
       seasons: "1",
       rating: "8.6/10",
       description:
-        "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day, school student Ji Eun-Tak confesses to him that she is the chosen one."
+        "Kim Shin, an immortal goblin, goes to find a human bride to remove an invisible sword from his chest and end his life. One day,school student Ji Eun-Tak confesses to him that she is the chosen one."
     },
     {
       name: "Crash Landing on you",
